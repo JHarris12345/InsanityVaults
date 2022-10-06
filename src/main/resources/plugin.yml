@@ -1,0 +1,9 @@
+name: InsanityVaults
+version: ${project.version}
+main: me.jharris.insanityvaults.InsanityVaults
+api-version: 1.17
+authors: [ JHarris ]
+commands:
+  vault:
+    usage: /vault
+    description: Open your vault

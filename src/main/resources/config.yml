@@ -1,0 +1,12 @@
+# Inventory settings
+Inventory:
+  Title: "%name%'s Vault"
+  Slots: 54
+
+# Permission required to open your vault
+Permission: "insanityvaults.open"
+
+# Items listed here will not be allowed to be placed into the vault
+BlacklistedItems:
+  - DIAMOND
+  - EMERALD
